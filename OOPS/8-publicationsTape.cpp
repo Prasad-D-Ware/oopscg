@@ -54,39 +54,5 @@ int main()
     Tape t;
     t.GetData();
     t.PutData();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    // int choice;
-    // do 
-    // {
-    //     cout<<"Menu Option :  "<<endl;
-    //     cout<<"ADD tape : (1) "<<endl;
-    //     cout<<"DISPLAY tape : (2) "<<endl;
-    //     cout<<"Exit (3) "<<endl;
-    //     cin>>choice;
-
-    //     switch(choice)
-    //     {
-    //         case 1:
-
-    //     }
-    // }while(choice != 3);
-    
     return 0; 
 }
